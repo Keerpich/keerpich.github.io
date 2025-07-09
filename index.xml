@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mulberry Software</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mulberry Software</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>danielalexandru.radu@gmail.com</managingEditor>
+    <webMaster>danielalexandru.radu@gmail.com</webMaster>
+    <lastBuildDate>Wed, 09 Jul 2025 20:48:48 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Wed, 09 Jul 2025 20:48:48 +0300</pubDate><author>danielalexandru.radu@gmail.com</author>
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-mulberry-software&#34;&gt;Welcome to Mulberry Software&lt;/h2&gt;&#xA;&lt;p&gt;Mulberry Software is a one-person indie game development studio with a mission: &lt;em&gt;to create engaging and fun games that push your skills and make you grow as a player&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Here, you won&amp;rsquo;t just find simple entertainment. You&amp;rsquo;ll find experiences that challenge you, that reward perseverance, and leave you feeling accomplished with each playthrough. We believe the best games are the ones that stay with you long after the credits roll.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Terms of Service</title>
+      <link>http://localhost:1313/samurai-slice/page/tos/</link>
+      <pubDate>Wed, 09 Jul 2025 20:39:23 +0300</pubDate><author>danielalexandru.radu@gmail.com</author>
+      <guid>http://localhost:1313/samurai-slice/page/tos/</guid>
+      <description>&lt;p&gt;THESE TERMS FORM A LEGALLY BINDING AGREEMENT BETWEEN YOU AND US. PLEASE TAKE THE TIME TO READ THEM CAREFULLY. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT PLAY THE GAME OR ACCESS THE SERVICE.&lt;/p&gt;&#xA;&lt;p&gt;PLEASE NOTE THAT DIFFERENT TERMS MAY APPLY TO YOU BASED ON WHERE YOU LIVE. MAKE SURE YOU READ THE JURISDICTION-SPECIFIC TERMS FOR YOUR JURISDICTION OF RESIDENCE (AT THE BOTTOM OF THESE TERMS). THESE SPECIFIC TERMS CONCERN IMPORTANT ASPECTS OF OUR AGREEMENT, INCLUDING, WITHOUT LIMITATION, HOW YOU CONSENT TO THESE TERMS, YOUR CONSUMER RIGHTS (INCLUDING YOUR CANCELLATION RIGHT, IF APPLICABLE), OUR RIGHTS TO TERMINATE YOUR ACCOUNT, YOUR RIGHT TO RECEIVE REFUNDS IN CERTAIN CASES, OUR WARRANTIES AND LIABILITY, AND THE LAW APPLICABLE TO THESE TERMS. THERE ARE CURRENTLY JURISDICTION-SPECIFIC TERMS FOR THE EUROPEAN UNION IN GENERAL AS WELL AS GERMANY, THE UK, AUSTRALIA, CANADA, NEW ZEALAND AND US.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/samurai-slice/page/privacy/</link>
+      <pubDate>Wed, 09 Jul 2025 20:36:39 +0300</pubDate><author>danielalexandru.radu@gmail.com</author>
+      <guid>http://localhost:1313/samurai-slice/page/privacy/</guid>
+      <description>&lt;h2 id=&#34;notice-for-samurai-slice&#34;&gt;Notice for Samurai Slice&lt;/h2&gt;&#xA;&lt;h3 id=&#34;date-of-update-august-24th-2024&#34;&gt;Date of update: August 24th, 2024&lt;/h3&gt;&#xA;&lt;p&gt;​&#xA;This privacy notice (the “Privacy Notice”) is designed to provide users (“you”) of Samurai Slice (the “Game”) with clear information relating to how Mulberry Software SRL (“MSS” or “we”), as the developer of the Game, processes your personal data or personal information (“Personal Information”) for our own purposes. From a general perspective, MSS is committed to protecting your privacy.&#xA;In this Privacy Notice, you will find the following information:&#xA;​&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
